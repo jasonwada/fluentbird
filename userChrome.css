@@ -183,7 +183,7 @@ ol[role="tree"] .container .twisty {
 }
 
 .toolbarbutton-1:hover {
-	background-color: #f1f0f0 !important;
+	background-color: ##4f4f4c !important;
 }
 
 #threadTree[rows="thread-card"] .card-layout td .card-container::before {
